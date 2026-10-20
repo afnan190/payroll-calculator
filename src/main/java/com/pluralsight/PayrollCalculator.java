@@ -35,6 +35,7 @@ public class PayrollCalculator {
 
     public static void displayPay(String name, double grossPay) {
         System.out.printf("Employee: %s Gross Pay: $%.2f%n", name, grossPay);
+
     }
 }
 
